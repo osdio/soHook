@@ -19,7 +19,7 @@
 
   hook.addAction(test1, hookAction, 1);
 
-  hook.addAction(test1, hookAction2, 2);
+  hook.addAction(test1, hookAction2, 3);
 
   test1();
 
